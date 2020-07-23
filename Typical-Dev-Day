@@ -1,0 +1,15 @@
+A TYPICAL DEVELOPER'S DAY :
+Workflow -  9am  check Trello board.  KanBan style. what people are working on. 
+git checkout master  ... git pull to update....    
+SM - scrum master .  10am standup .. meeting.  Each team member says what they are working on. 
+PO = product owner.  
+10:30am - back to work. usually on bugs or new features. 
+2pm - submit pr - pull request. git push ... review pull requests. submitting your review and
+then approving changes. 
+3pm - QA - quality analysis. 4pm -  once your work is pull requested and has been checked by a QA 
+if it is acceptable it will then be merged to master. (Wohooo!)  
+- then you can add update readme to done on the Trello Board.  for the team. 
+Next day:  one chunk at a time. Its a ton of fun. 
+Help others debug their code - it improves your knowledge and helps them to. And good kARMA! 
+
+MONTHLY ZTM NEWSLETTER:  https://medium.com/zerotomastery
