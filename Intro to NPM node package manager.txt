@@ -1,0 +1,13 @@
+
+Node Package Manager Intro (NPM)
+for devs to share JS code that they have written,  npm website. You can search for packages. 
+Stored in the npm registry which keeps track of files that have been submitted. packages (or modules)
+the packages contain two things:  a package.json file (a meta file which describes the package)
+and a js file.  use others code.... to add functionality... Use collective knowledge. 
+downsides:  not all packages have good code.  It also adds more byte size to your project. Each file
+will be sent from the web server to the browser (web dev) as youknow this can effect web page 
+load speed.   yarn is a tool to grab things from the npm registry. its very similar to npm. 
+
+3 types of packages:  1. frontend 2. command line - more commands  3. one for node.js on the backend
+3 things in any project:  1. HTML + CSS + Javascript  2. Github Repo + Git 
+3. Package.json file
