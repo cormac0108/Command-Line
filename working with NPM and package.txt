@@ -1,0 +1,17 @@
+
+
+How do we get an npm package from the registry.  React.js  for example.  LTS -  long term support
+We need NOde.JS.     windows installer.  Node js - allows us to run js outside of the browser. 
+V8 engine js engine.  Node uses the v8 engine that chrome browser uses.   
+go to the terminal and type  --- npm -v    to check if everything is working.   node -v  
+to check if you have node.js installed. 
+ npm install npm@latest -g    to install latest version of npm.    npm install react
+ if you get permisiion errors it means whatever user you are logged in as on your device does not have 
+ permission --- whicch means youll have to run these commands as the adfministrator. which means
+ youd simply do     sudo npm install react           npm init         creates a package.json file. 
+ then keep entering info about the project and pressing enter.     now you have a package.json file. 
+ .json   - is a file format.   with this comes alot of power.     
+ node --- future install.   get a version higher than the LTS.   the latest?  node -v    npm -v
+ update your node version. go through the iinstaller.    node -v    new window   node -v  
+you now have the latest version of node and npm.  Installing node and npm on windows? this should
+be fun..... 
